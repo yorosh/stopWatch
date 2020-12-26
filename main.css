@@ -1,0 +1,15 @@
+#timer{
+  font-size: 60px;
+  text-align: center;
+}
+h3{
+  text-align: center;
+}
+#start,#stop,#reset{
+  align-items: center;
+  padding: 10px 20px;
+  margin-top: 30px;
+}
+.input{
+  text-align: center;
+}
